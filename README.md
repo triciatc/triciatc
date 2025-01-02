@@ -2,7 +2,7 @@
 
 <img height="500" align="right" src=https://github.com/user-attachments/assets/e4ddd4d6-5fc1-444f-8793-f10618891e91>
 
-- 🔭 I’m currently working on my Cyber Security Fundamentals Certificate at CoGrammar
+- 🔭 Cybersecurity trainee
 - 🌱 I’m currently learning Python and Cybersecutiy Fundamentals
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: My background is in Architecture. Working on Grasshopper scripts (visual scripting) is what made me want to go into programming! Check out my <a href='https://www.instagram.com/triciacas.design'>design work</a>!
