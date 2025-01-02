@@ -1,4 +1,4 @@
-##Hello World! My name is Patricia 👋👩🏽‍💻
+## Hello World! My name is Patricia 👋👩🏽‍💻
 
 <img height="500" align="right" src=https://github.com/user-attachments/assets/e4ddd4d6-5fc1-444f-8793-f10618891e91>
 
