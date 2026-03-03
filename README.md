@@ -2,7 +2,7 @@
 
 <img height="500" align="right" src=https://github.com/user-attachments/assets/e4ddd4d6-5fc1-444f-8793-f10618891e91>
 
-- 🔭 Aspiring Business Analyst
+- 🔭 Junior Data / MI Analyst | SQL (foundational) | Excel reporting | Data QA & documentation (NHS)
 - ⚡ About me: Trained in Architecture (MArch) and experienced in regulated admin/data work (NHS). I enjoy structured problem-solving: mapping processes, improving workflows, and turning messy information into clear documentation and reporting. I first got interested in automation through Grasshopper (visual scripting).
 - 🧩 Interests: process improvement • requirements • reporting • data quality • workflow automation • AI Prompting
 - 🛠️ What I’m building here: small projects to practise structured analysis, reporting, and automation (e.g., spreadsheets, light data work, workflow experiments).
