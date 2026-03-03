@@ -8,7 +8,9 @@
 - 🛠️ What I’m building here: small projects to practise structured analysis, reporting, and automation (e.g., spreadsheets, light data work, workflow experiments).
 - ✨ Hobbies: Volunteering for a local environmental organisation (digital/creative support), Pilates, and maintaining/upgrading the PC I built. You can also see my design work here: <a href='https://www.instagram.com/triciacas.design'>Instagram</a>.
 ### 📫 Get in touch:
-<a href='https://www.linkedin.com/in/mpdcastelo/'><image height="30" src='https://banner2.cleanpng.com/20180419/oqq/avfzpcbox.webp'></a>
+<a href='https://www.linkedin.com/in/mpdcastelo/'><image height="25" src='https://upload.wikimedia.org/wikipedia/commons/e/e8/Linkedin-logo-blue-In-square-40px.png'></a>
+
+
 
 ### Languages and tools:
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png"></code>
