@@ -22,4 +22,4 @@
 
 ### Certificates:
 - Introduction to Javascript  - Code First Girls with Smartsheet [2024]
-- Cybersecurity fundamentals - HyperionDev [Loading...]
+- Cybersecurity fundamentals - HyperionDev [2025]
