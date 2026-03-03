@@ -2,12 +2,11 @@
 
 <img height="500" align="right" src=https://github.com/user-attachments/assets/e4ddd4d6-5fc1-444f-8793-f10618891e91>
 
-- 🔭 Cybersecurity trainee
-- 🌱 I’m currently learning Python and Cybersecutiy Fundamentals
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: My background is in Architecture. Working on Grasshopper scripts (visual scripting) is what made me want to go into programming! Check out my <a href='https://www.instagram.com/triciacas.design'>design work</a>!
-- ✨ Hobbies: Volunteering as a graphic designer for my local environmental organisation, Pilates, mainiting and upgrading the PC I built
-
+- 🔭 Aspiring Business Analyst
+- ⚡ About me: Trained in Architecture (MArch) and experienced in regulated admin/data work (NHS). I enjoy structured problem-solving: mapping processes, improving workflows, and turning messy information into clear documentation and reporting. I first got interested in automation through Grasshopper (visual scripting).
+- 🧩 Interests: process improvement • requirements • reporting • data quality • workflow automation
+- 🛠️ What I’m building here: small projects to practise structured analysis, reporting, and automation (e.g., spreadsheets, light data work, workflow experiments).
+- ✨ Hobbies: Volunteering for a local environmental organisation (digital/creative support), Pilates, and maintaining/upgrading the PC I built. You can also see my design work here: <a href='https://www.instagram.com/triciacas.design'>Instagram</a>.
 ### 📫 Get in touch:
 <a href='https://www.linkedin.com/in/mpdcastelo/'><image height="30" src='https://banner2.cleanpng.com/20180419/oqq/avfzpcbox.webp'></a>
 
